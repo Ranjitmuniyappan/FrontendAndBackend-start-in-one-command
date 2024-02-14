@@ -2,6 +2,20 @@
 
     Certainly! To create a project with a frontend and backend within a project root and start both projects with a single command, you can follow these general steps. I'll assume you are using a common tech stack like Node.js for the backend and React for the frontend, but you can adapt the steps based on your preferred technologies.
 
+    project-root/
+    ├── backend/
+    │   ├── server.js
+    │   ├── ...
+    │
+    ├── frontend/
+    │   ├── src/
+    │   ├── public/
+    │   ├── ...
+    │
+    ├── .gitignore
+    ├── package.json
+
+
     1. Create Project Root:
      - Start by creating a directory for your project. This will be the root directory containing both frontend and backend code.
 
