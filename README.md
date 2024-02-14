@@ -99,5 +99,10 @@
             npm install concurrently --save-dev
 
 
+    4. Finally we have done development. now let start the project.
+
+        npm start
+
+
 
 
