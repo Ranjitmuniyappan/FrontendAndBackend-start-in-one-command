@@ -39,7 +39,7 @@
       - Once package.json file created then install this dependancy
           npm install --save-dev npm-run-all                          //npm-run-all this package allows you to start both project one-by-one.
 
-      - That's all from Root-Project, now continue to create Frontend and Backend project within the Root-Project.
+      - That's all from Root-Project, now continue to create Frontend and Backend project into the Root-Project.
 
 
     2. Create Backend Project now
@@ -76,7 +76,7 @@
             npm install concurrently --save-dev
 
 
-        - That's all now update you backend project's package.json file "server.js" as a start file into script.
+        - That's all now update your backend project's package.json file "server.js" as a start file at script.
 
 
 
@@ -99,7 +99,7 @@
             npm install concurrently --save-dev
 
 
-    4. Finally we have done development. now let start the project.
+    4. Finally we have done all the development. now let start the project.
 
         npm start
 
